@@ -1,6 +1,10 @@
+<<<<<<< Updated upstream
 hello
 mantap
 
 ni yg kedua
 
 yg ketiga
+=======
+V5
+>>>>>>> Stashed changes
